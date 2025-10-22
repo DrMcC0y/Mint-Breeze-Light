@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Mint-Breeze-Light
+Comment=Lovely light flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Breeze-Light
+MetacityTheme=Mint-Y
+IconTheme=Mint-Breeze-Light-Icons
+CursorTheme=XCursor-Pro-Light
+ButtonLayout=menu:minimize,maximize,close
