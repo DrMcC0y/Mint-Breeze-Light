@@ -797,7 +797,7 @@ toolbar, .inline-toolbar {
   border-image: linear-gradient(to bottom, @theme_main_bg_1, #cacaca) 1 0 1 0; }
 
 .inline-toolbar {
-  background-color: rgba(248, 233, 239, 0.80);
+  background-color: @background;
   border-style: solid;
   border-color: @gray_light;
   border-width: 0 1px 1px;
@@ -3264,7 +3264,7 @@ NautilusQueryEditor .search-bar.toolbar {
     background-color: rgba(31, 158, 222, 0.8);
     border-color: rgba(25, 126, 177, 0.8); }
   .disk-space-display.free {
-    background-color: rgba(248, 233, 239, 0.80);
+    background-color: @background;
     border-color: #d4d4d4; }
 
 NautilusListView .view, NautilusListView iconview {
