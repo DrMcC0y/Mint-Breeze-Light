@@ -956,7 +956,6 @@ StScrollBar {
     margin: 0px;
     padding: 10px;
     border: none;
-  /* background-color: rgba(227, 237, 241, 0.77); */
     background-color: rgba(212, 222, 223, 0.77); }
     .modal-dialog-button-box .modal-dialog-button {
       padding-top: 0;
